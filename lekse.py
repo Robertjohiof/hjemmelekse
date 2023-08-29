@@ -1,0 +1,1 @@
+print("lekser er morro")
